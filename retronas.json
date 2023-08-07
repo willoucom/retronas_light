@@ -1,0 +1,242 @@
+{
+    "mister_folder": "debug/retronas/mister/",
+    "retroarch_folder": "debug/retronas/retroarch/",
+    "roms_folder": "debug/roms/",
+    "link_type": "symlinks",
+    "folders": {
+        "computer/acorn/atom": {
+            "Mister": "AcornAtom"
+        },
+        "computer/acorn/electron": {
+            "Mister": "AcornElectron"
+        },
+        "computer/alice": {
+            "Mister": "AliceMC10"
+        },
+        "computer/altair": {
+            "Mister": "Altair8800"
+        },
+        "computer/amstrad/cpc": {
+            "Mister": "Amstrad",
+            "Retroarch": "amstradcpc"
+        },
+        "computer/amstrad/pcw": {
+            "Mister": "Amstrad PCW"
+        },
+        "computer/apogee": {
+            "Mister": "APOGEE"
+        },
+        "computer/apple/apple1": {
+            "Mister": "APPLE-I"
+        },
+        "computer/apple/apple2": {
+            "Mister": "Apple-II"
+        },
+        "computer/aquarius": {
+            "Mister": "AQUARIUS"
+        },
+        "computer/arcadia2001": {
+            "Mister": "Arcadia"
+        },
+        "computer/archie": {
+            "Mister": "ARCHIE"
+        },
+        "computer/atari/800": {
+            "Mister": "ATARI800",
+            "Retroarch": "atari800"
+        },
+        "computer/atari/st": {
+            "Mister": "AtariST",
+            "Retroarch": "atarist"
+        },
+        "computer/avision": {
+            "Mister": "AVision"
+        },
+        "computer/ay-3-8500": {
+            "Mister": "AY-3-8500"
+        },
+        "computer/bbc/bridgecompanion": {
+            "Mister": "BBCBridgeCompanion"
+        },
+        "computer/bbc/micro": {
+            "Mister": "BBCMicro"
+        },
+        "computer/bk0011m": {
+            "Mister": "BK0011M"
+        },
+        "computer/casio/pv-1000": {
+            "Mister": "Casio_PV-1000"
+        },
+        "computer/casio/pv-2000": {
+            "Mister": "Casio_PV-2000"
+        },
+        "computer/channelf": {
+            "Mister": "ChannelF"
+        },
+        "computer/coleco/adam": {
+            "Mister": "Adam"
+        },
+        "computer/commodore/amiga": {
+            "Mister": "Amiga"
+        },
+        "computer/commodore/amiga500": {
+            "Mister": "Amiga500"
+        },
+        "computer/commodore/commodore128": {
+            "Mister": "C128"
+        },
+        "computer/commodore/commodore16": {
+            "Mister": "C16"
+        },
+        "computer/commodore/commodore64": {
+            "Mister": "C64",
+            "Retroarch": "c64"
+        },
+        "computer/edsac": {
+            "Mister": "EDSAC"
+        },
+        "computer/eg2000": {
+            "Mister": "eg2000"
+        },
+        "computer/intel_x86": {
+            "Mister": "AO486"
+        },
+        "computer/microsoft/msx": {
+            "Mister": "MSX",
+            "Retroarch": "msx2"
+        },
+        "computer/microsoft/msx/MSX1": {
+            "Mister": "MSX1",
+            "Retroarch": "msx1"
+        },
+        "computer/sharp/x68000": {
+            "Mister": "X68000",
+            "Retroarch": "x68000"
+        },
+        "computer/tandy/coco2": {
+            "Mister": "CoCo2"
+        },
+        "computer/tandy/coco3": {
+            "Mister": "COCO3"
+        },
+        "console/atari/2600": {
+            "Mister": "Atari2600",
+            "Retroarch": "atari2600"
+        },
+        "console/atari/5200": {
+            "Mister": "ATARI5200",
+            "Retroarch": "atari5200"
+        },
+        "console/atari/7800": {
+            "Mister": "ATARI7800",
+            "Retroarch": "atari7800"
+        },
+        "console/bally/astrocade": {
+            "Mister": "Astrocade"
+        },
+        "console/coleco/colecovision": {
+            "Mister": "Coleco",
+            "Retroarch": "colecovision"
+        },
+        "console/nec/pcengine": {
+            "Mister": "TGFX16",
+            "Retroarch": "pcengine"
+        },
+        "console/nec/pcenginecd": {
+            "Mister": "TGFX16-CD",
+            "Retroarch": "pcenginecd"
+        },
+        "console/nintendo/famicom": {
+            "Mister": "NES",
+            "Retroarch": "nes"
+        },
+        "console/nintendo/nintendo64": {
+            "Mister": "N64",
+            "Retroarch": "n64"
+        },
+        "console/nintendo/superfamicom": {
+            "Mister": "SNES",
+            "Retroarch": "snes"
+        },
+        "console/sega/mastersystem": {
+            "Mister": "SMS",
+            "Retroarch": "mastersystem"
+        },
+        "console/sega/megacd": {
+            "Mister": "MegaCD",
+            "Retroarch": "segacd"
+        },
+        "console/sega/megadrive": {
+            "Mister": "Genesis",
+            "Retroarch": "megadrive"
+        },
+        "console/sega/megadrive32X": {
+            "Mister": "S32X",
+            "Retroarch": "sega32x"
+        },
+        "console/sega/saturn": {
+            "Mister": "Saturn"
+        },
+        "console/snk/neogeo": {
+            "Mister": "NEOGEO",
+            "Retroarch": "neogeo"
+        },
+        "console/snk/neogeo-cd": {
+            "Mister": "NeoGeo-CD",
+            "Retroarch": "neogeocd"
+        },
+        "console/sony/playstation1": {
+            "Mister": "PSX",
+            "Retroarch": "psx"
+        },
+        "console/vtech/creativision": {
+            "Mister": "CreatiVision"
+        },
+        "handheld/atari/lynx": {
+            "Mister": "AtariLynx",
+            "Retroarch": "lynx"
+        },
+        "handheld/bandai/wonderswan": {
+            "Mister": "WonderSwan",
+            "Retroarch": "wswan"
+        },
+        "handheld/bandai/wonderswancolor": {
+            "Mister": "WonderSwanColor",
+            "Retroarch": "wswanc"
+        },
+        "handheld/nintendo/gameandwatch": {
+            "Mister": "GameNWatch",
+            "Retroarch": "gw"
+        },
+        "handheld/nintendo/gameboy": {
+            "Mister": "GAMEBOY,GAMEBOY2P,SGB",
+            "Retroarch": "gb"
+        },
+        "handheld/nintendo/gameboyadvance": {
+            "Mister": "GBA,GBA2P",
+            "Retroarch": "gba"
+        },
+        "handheld/nintendo/gameboycolor": {
+            "Mister": "GBC,GameboyColor2P",
+            "Retroarch": "gbc"
+        },
+        "handheld/nintendo/pokemonmini": {
+            "Mister": "PokemonMini",
+            "Retroarch": "pokemini"
+        },
+        "handheld/sega/gamegear": {
+            "Mister": "GameGear",
+            "Retroarch": "gamegear"
+        },
+        "handheld/watara/supervision": {
+            "Mister": "SuperVision",
+            "Retroarch": "supervision"
+        },
+        "mame/hbmame": {
+            "Mister": "hbmame"
+        },
+        "mame/mame": {
+            "Mister": "mame"
+        }
+    }
+}
